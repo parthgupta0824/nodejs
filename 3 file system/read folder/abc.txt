@@ -1,0 +1,1 @@
+read from new file abc.txt form -> file3 path fs.txt 
